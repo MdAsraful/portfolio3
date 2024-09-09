@@ -163,7 +163,7 @@ li a{
 }
 .footer{
     display: flex;
-    background-color: #cf6d27;
+    background-color: #FFF8F3;
     /* height: 780px;
     width: 100vw; */
     padding: 130px 200px;
@@ -173,7 +173,7 @@ form input[type='text'],form input[type='email'],form textarea{
     width: 100%;
 }
 input{
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .footer section{
     width: 50%;
